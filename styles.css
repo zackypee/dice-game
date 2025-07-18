@@ -52,6 +52,11 @@ button{
   border: 0;
   cursor: pointer;
 }
+button:hover{
+  background-color: brown;
+  color: white;
+
+}
 .btn{
   display: flex;
   gap: 10px;
